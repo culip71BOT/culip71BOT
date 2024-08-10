@@ -10,3 +10,4 @@
 culip71BOT/culip71BOT là một kho lưu trữ ✨ đặc biệt ✨ vì `README.md` (tệp này) của nó xuất hiện trên hồ sơ GitHub của bạn.
 Bạn có thể nhấp vào liên kết Xem trước để xem các thay đổi của mình.
 --->
+echo "# TR-LICUHI-" >> README.md  git init  git add README.md  git commit -m "lần cam kết đầu tiên"  git branch -M main  git remote add origin https://github.com/culip71BOT/TR-LICUHI-.git  git push -u origin main
